@@ -19,11 +19,11 @@ Application Load Balancer(ALB)
 Auto Scaling Group(ASG)
 
 # PROJECT ARCHITECTURE
-Created a Custom VPC
-Configured Public and Private Subnet
-Attached and Internet Gateway to VPC
+Created a Custom VPC.
+Configured Public and Private Subnet.
+Attached and Internet Gateway to VPC.
 Used a NAT Gateway for Internet acces from private subnet.
-Edit Route Table for public and private subnet
+Edit Route Table for public and private subnet.
 Created a Bastion Host in public subnet for secure access.
 Deployed the Web Application on EC2 Instance.
 Created Launch template.
