@@ -52,7 +52,8 @@ Engine: MYSQL
 ![Auto Scaling Group](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20180403.png)
 ![Load Balancer](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175303.png)
 ![servers and Bastion Host](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20181440.png)
-![WebPage](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175342.png)
+![WebPage output](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175342.png)
+![Successful Message](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175025.png)
 
 
 
