@@ -43,17 +43,29 @@ Private Database
 # database
 Service: Amazon RDS
 Engine: MYSQL
-
+## screenshots
+## VPC
 ![VPC Screenshot](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175815.png)
+## Public Subnet
 ![Public and Private Subnet Screenshot](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175857.png)
+## RDS Database
 ![RDS Database](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175512.png)
+## Target Group
 ![Target Group](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20180156.png)
+## Launch Template
 ![Launch Template](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20180620.png)
+## Auto Scaling Group
 ![Auto Scaling Group](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20180403.png)
+## Load Balancer
 ![Load Balancer](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175303.png)
+## Instances & Bastion Host
 ![servers and Bastion Host](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20181440.png)
+## Webpage Output
 ![WebPage output](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175342.png)
+## Its Working
 ![Successful Message](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175025.png)
+## Bastion Host
+![Data Show through Bastion Host](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20174749.png)
 
 
 
