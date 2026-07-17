@@ -44,5 +44,6 @@ Private Database
 Service: Amazon RDS
 Engine: MYSQL
 
+![VPC Screenshot](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175815.png)
 
 
