@@ -46,6 +46,7 @@ Engine: MYSQL
 
 ![VPC Screenshot](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175815.png)
 ![Public and Private Subnet Screenshot](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175857.png)
+![RDS Database](https://github.com/deshmukhtanuja219-tech/-AWS-Three-Tier-Job-Portal/blob/main/Screenshot%202026-07-16%20175512.png)
 
 
 
